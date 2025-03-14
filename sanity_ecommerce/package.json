@@ -1,14 +1,16 @@
 {
+  "$schema": "./node_modules/@schemastore/package/package.json",
   "name": "ecommerce",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "JavaScript Mastery <javascriptmastery00@gmail.com>",
+  "author": "Kgad <kalisagad05@gmail.com",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
-    "build": "sanity build"
+    "build": "sanity build",
+    "dev" : "next dev"
   },
   "keywords": [
     "sanity"
